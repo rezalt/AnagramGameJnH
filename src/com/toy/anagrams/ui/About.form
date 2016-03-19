@@ -47,7 +47,7 @@
             <Property name="columns" type="int" value="25"/>
             <Property name="lineWrap" type="boolean" value="true"/>
             <Property name="rows" type="int" value="8"/>
-            <Property name="text" type="java.lang.String" value=" Anagrammer&#xa;&#xa; Copyright (c) 2003 Picogames inc."/>
+            <Property name="text" type="java.lang.String" value=" Anagrammer&#xa;&#xa; Copyright (c) 2003 Annoying Enterprises"/>
             <Property name="wrapStyleWord" type="boolean" value="true"/>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="null"/>

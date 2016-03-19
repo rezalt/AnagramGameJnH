@@ -83,7 +83,7 @@ public class About extends JDialog {
         copyrightTextArea.setColumns(25);
         copyrightTextArea.setLineWrap(true);
         copyrightTextArea.setRows(8);
-        copyrightTextArea.setText(" Anagrammer\n\n Copyright (c) 2003 Picogames inc.");
+        copyrightTextArea.setText(" Anagrammer\n\n Copyright (c) 2003 Annoying Enterprises");
         copyrightTextArea.setWrapStyleWord(true);
         copyrightTextArea.setBorder(null);
         copyrightTextArea.setFocusable(false);
